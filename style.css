@@ -1,0 +1,53 @@
+#introduction {
+    background-color:#EBE4D1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(20%);
+}
+
+#my-photo{
+    width: 200px;
+}
+
+body *{
+font-family: 'Courier Prime', monospace;
+color: #26577C;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    color: #26577C;
+}
+
+h2 {
+    font-weight: bold;
+    color: #E55604;
+}
+
+.pro {
+    /* text-decoration-line: underline; */
+    color: #E55604;
+}
+
+.my-button {
+    background-color: #26577C;
+    border-color: #26577C;
+}
+
+.my-card {
+    background-color: #B4B4B3;
+}
+
+ul {
+    margin:1rem;
+    list-style-type: none;
+}
+
+#contact{
+    background-color: #EBE4D1;
+}
+
+.col-skills{
+    height: 20rem;
+}
